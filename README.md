@@ -4,7 +4,7 @@ Roadmap for RE-rtivia:
 - [ ] Fix type errors in Server
 - [ ] Rewrite CDN
 - [ ] Fix Twemoji
-- [ ] Change the Founder badge to Maintainer
+- [ ] Change the Founder/Owner badge to Maintainer
 - [ ] Do appropriate testing
 - [ ] Re-write user permission system & make it so that the first user registered gains admin privileges
 - [ ] Expand admin area
