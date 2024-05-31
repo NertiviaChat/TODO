@@ -7,3 +7,6 @@ Roadmap for RE-rtivia:
 - [ ] Do appropriate testing
 - [ ] Re-write user permission system & make it so that the first user registered gains admin privileges
 - [ ] Expand admin area
+- [ ] Implement a toggle-able system that demands a code before registration
+- [ ] And therefore create an admin panel page to manage those codes
+- [ ] Add an option for admins to toggle whether the users that registered with a code gain a badge
