@@ -5,6 +5,7 @@ Roadmap for RE-rtivia:
 - [ ] Rewrite CDN
 - [ ] Fix Twemoji
 - [ ] Fix Unread pings
+- [ ] Rewrite Client to <script setup>
 - [ ] Change the Founder/Owner badge to Maintainer
 - [ ] Do appropriate testing
 - [ ] Re-write user permission system & make it so that the first user registered gains admin privileges
