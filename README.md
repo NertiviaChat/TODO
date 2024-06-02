@@ -5,6 +5,7 @@ Roadmap for RE-rtivia:
 - [ ] Rewrite CDN
 - [ ] Fix Twemoji
 - [ ] Fix Unread pings
+- [ ] Switch from Vuex to Pinia
 - [ ] Rewrite Client to <script setup>
 - [ ] Change the Founder/Owner badge to Maintainer
 - [ ] Do appropriate testing
