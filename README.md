@@ -3,7 +3,7 @@ Roadmap for RE-rtivia:
 - [ ] Fix type errors in Client
 - [ ] Fix type errors in Server
 - [ ] Rewrite CDN
-- [ ] Fix Twemoji
+- [x] Fix Twemoji
 - [ ] Fix Unread pings
 - [ ] Switch from Vuex to Pinia
 - [ ] Rewrite Client to <script setup>
